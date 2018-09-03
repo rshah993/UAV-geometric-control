@@ -1,1 +1,2 @@
 # UAV-geometric-control
+This project aims to provide a new-age position tracking control of a quadrotor UAV that is potentially able to perform aggressive acrobatic manipulation of its movement. The control input for this system uses an underactuated control with the four rotor thrusts as the input that control the six translational and rotational degrees of freedom, and achieve exponential tracking of the four outputs for all angles. The analysis of the system presents a globally defined model of the rigid body dynamics.
